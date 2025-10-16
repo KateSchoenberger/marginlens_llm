@@ -1,0 +1,2 @@
+pip install fastapi uvicorn faiss-cpu openai python-dotenv
+pip freeze > requirements.txt
