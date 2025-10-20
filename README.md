@@ -27,7 +27,8 @@ pip install -r requirements.txt
 Set up environment variables:
 
 cp .env.example .env
-# Edit .env to include your API keys and other configurations
+
+Edit .env to include your API keys and other configurations
 
 
 Run the application:
